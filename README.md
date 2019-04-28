@@ -3,6 +3,6 @@ This repo contains multiple Geospatial Datasets that are needed to complete Rowa
 ## ArcGIS Hub Sites
 Below are several resources where you can download and obtain different geospatial datasets. The majority of the list below are using Esri's ArcGIS Hub and Open Data Portal to share GIS data.
 #### Open Data DC - http://opendata.dc.gov/
-[![alt text](https://raw.githubusercontent.com/mapsrule/Web-GIS-Data-Center/master/ArcGIS_Hub_Sites/DC.png)]
+![alt text](https://raw.githubusercontent.com/mapsrule/Web-GIS-Data-Center/master/ArcGIS_Hub_Sites/DC.png)
 #### Chicago Data Portal - https://data.cityofchicago.org/
-[![alt text](https://raw.githubusercontent.com/mapsrule/Web-GIS-Data-Center/master/ArcGIS_Hub_Sites/chicago.png)]
+![alt text](https://raw.githubusercontent.com/mapsrule/Web-GIS-Data-Center/master/ArcGIS_Hub_Sites/chicago.png)
